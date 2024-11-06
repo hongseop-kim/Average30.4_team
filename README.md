@@ -6,3 +6,4 @@
 Amazon EKS(Elastic Kubernetes Service)를 통해 쿠버네티스 클러스터를 구축 후 오토스케일링, 로드밸런싱을 통한 부하 분산이 되도록 구현.
 
 ## 관련 문서
+https://github.com/user-attachments/files/17642968/Terraform.AWS.pdf
